@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FirstAPP</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="splash_screen">SPLASH SCREEN</string>
+    <string name="first_screen">First Screen</string>
+    <string name="second_screen">Second Screen</string>
+    <string name="next">Next</string>
+    <string name="f_n_sh">FİNİSH</string>
+    <string name="signup">signup</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="ifre_giriniz">Şifre giriniz.</string>
+    <string name="mail_adresinizi_giriniz">Mail adresinizi giriniz.</string>
+    <string name="ifrenizi_giriniz">Şifrenizi giriniz</string>
+    <string name="signupin">SignUp</string>
+    <string name="entry">Entry</string>
+    <string name="logout">logout</string>
+</resources>
